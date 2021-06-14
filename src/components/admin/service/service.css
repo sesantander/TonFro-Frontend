@@ -1,0 +1,12 @@
+/*
+ * service css File
+*/
+
+.service {
+    /* propertys here */
+}
+.editor-class{
+    float: left;
+    border: 1px #ccc solid;
+    padding: 11px;
+}

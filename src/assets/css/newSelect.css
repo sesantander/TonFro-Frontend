@@ -1,0 +1,27 @@
+
+select
+{
+	color: #505050;
+	font: #505050;
+	margin: 0
+}
+#GreySelect{
+    color: #505050;
+	font: #505050;
+	margin: 0
+
+}
+.colPer{
+	float: left;
+
+}
+
+.colPer2{
+	
+	text-align: left;
+	display: block
+}
+#control2 label{
+    text-align: left;
+	display: block
+}

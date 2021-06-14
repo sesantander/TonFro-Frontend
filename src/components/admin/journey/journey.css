@@ -1,0 +1,11 @@
+/*
+ * Route css File
+*/
+
+.ant-time-picker {
+    width:100%;
+    height: 38px !important;
+}
+ .ant-time-picker-icon{
+	margin-top: -10px !important;
+}

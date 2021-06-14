@@ -1,0 +1,12 @@
+custome_file {
+     width: 0px;
+     opacity: 0;
+   }
+   label.c_upload {
+   background-color: #67a200;
+   color: #ffffff;
+   padding: 8px 15px;
+   border-radius: 20px;
+   border: 2px solid #eee;
+   cursor: pointer;
+   }
